@@ -1,0 +1,22 @@
+.swapper{
+	margin: 50px auto;
+	width: 300px;
+}
+
+.swapper h1{
+	color: white;
+	background: #00A19C;
+	padding: 10px;
+	font-size: 15px;
+}
+form{
+	padding: 10px;
+	background: #C7EEEB;
+}
+.swapper #error{
+	
+	color: red;
+	font-size: 15px;
+}
+
+
